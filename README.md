@@ -1,7 +1,7 @@
 # profile
 <h1 align="center">Hi 👋, I'm KEERTHANA M</h1>
 <h3 align="center">Computer Science & Engineering, MRIT</h3>
-<p align="left"><img src="C:\Users\Keerthana M\Downloads\student_gif.mp4" alt="Keerthana"></p>
+
 
 - 🖥️ Created a Personal website .. **using html,css and js**
 
